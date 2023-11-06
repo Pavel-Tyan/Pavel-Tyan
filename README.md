@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,redux,cs,cpp,python)](https://skillicons.dev)
 
 ## LeetCode Statistics
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paveltyan032)](https://github.com/paveltyan032/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paveltyan032&theme=dark)](https://github.com/paveltyan032/leetcode-stats)
