@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 # Skills
-## Tools
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,redux,cs,python)](https://skillicons.dev)
 
 ## Most used languages
