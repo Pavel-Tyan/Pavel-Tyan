@@ -5,8 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 # Skills
-## Most used languages
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,redux,cs,python)](https://skillicons.dev)
 
+## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&layout=compact)](https://github.com/Pavel-Tyan/github-readme-stats)
 
 ## Algorithms
