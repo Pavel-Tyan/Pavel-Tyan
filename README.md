@@ -6,10 +6,7 @@
 
 # Skills
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,redux,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,redux,cs,cpp,python)](https://skillicons.dev)
 
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&layout=compact)](https://github.com/Pavel-Tyan/github-readme-stats)
-
-## Algorithms
+## LeetCode Statistics
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paveltyan032)](https://github.com/paveltyan032/leetcode-stats)
