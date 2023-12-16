@@ -6,7 +6,7 @@
 
 # Skills
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,redux,vite,cs,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,cs,cpp,python)](https://skillicons.dev)
 
 ## LeetCode Statistics
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paveltyan032&theme=dark)](https://github.com/paveltyan032/leetcode-stats)
