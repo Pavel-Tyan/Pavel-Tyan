@@ -6,4 +6,4 @@
 
 # Skills
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,cs,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,cs,cpp,python)](https://skillicons.dev)
