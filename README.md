@@ -8,4 +8,4 @@
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,cs,cpp,python,vite,react,nextjs&perline=4)](https://skillicons.dev)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&theme=dark&layout=compact&exclude_repo=Tips-tools)](https://github.com/Pavel-Tyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&theme=dark&layout=compact&exclude_repo=Tips-tools)](https://github.com/anuraghazra/github-readme-stats)
