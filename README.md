@@ -11,8 +11,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Algorithms and Data structures
 [![Pavel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paveltyan032&theme=dark)](https://github.com/paveltyan032/leetcode-stats)
-## Activity
----
-<p align="center">
-    <a href="https://github.com/Pavel-Tyan"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=paveltyan032&theme=dracula&show_icons=true&hide_border=true"></a>
-</p>
