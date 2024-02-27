@@ -8,7 +8,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,nextjs,vite,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,nodejs,nestjs,docker" />
   </a>
 </p>
 
