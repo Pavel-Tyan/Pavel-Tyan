@@ -12,7 +12,5 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Tyan&show_icons=true&theme=tokyonight) </div> </td><td valign="top" width="50%">
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
