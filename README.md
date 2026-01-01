@@ -11,6 +11,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,npm,vscode,webstorm" />
   </a>
 </p>
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Tyan&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
